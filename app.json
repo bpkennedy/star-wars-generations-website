@@ -1,7 +1,7 @@
 {
-  "name": "Vue Blog",
-  "description": "A Vue Blog app using Cosmic JS",
-  "repository": "https://github.com/cosmicjs/vue-blog-cosmicjs",
+  "name": "Star Wars Generations",
+  "description": "Developer blog for Star Wars Generations, a persistant multiplayer online browser game in the Star Wars universe",
+  "repository": "https://github.com/bpkennedy/star-wars-generations-website",
   "logo": "https://cosmicjs.com/images/logo.svg",
-  "keywords": ["vue", "blog"]
+  "keywords": ["vue", "blog", "star wars", "online game", "multiplayer", "developer"]
 }

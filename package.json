@@ -1,8 +1,8 @@
 {
-  "name": "vue-blog-cosmicjs",
-  "version": "1.0.2",
-  "description": "A simple blog app built using Vue & Vuex. It connects to the Cosmic JS CMS via API. You can manage your content from your Cosmic JS Dashboard.",
-  "author": "Jazib Sawar <jazibsawar@gmail.com>",
+  "name": "star-wars-generations",
+  "version": "1.0.3",
+  "description": "Developer blog for Star Wars Generations, a persistant multiplayer online browser game in the Star Wars universe",
+  "author": "Brian Kennedy <bpkennedy@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
