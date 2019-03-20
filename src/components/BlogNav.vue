@@ -1,5 +1,6 @@
 <template>
   <nav class="nav">
+    <div class="ship" title="Star Wars Generations Image"></div>
     <h1 class="nav__title">
       <router-link to="/">{{ content.title }}</router-link>
     </h1>

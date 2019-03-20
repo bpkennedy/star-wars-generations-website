@@ -2,7 +2,10 @@ body {
   @extend %txt--body;
   position: relative;
   color: cc(txt);
-  background-color: cc(bg);
+  background-image:url('https://66.media.tumblr.com/d249339336e54c5916984cf820ba72c2/tumblr_inline_n258pmUe5i1qhwjx8.png');
+  background-repeat:repeat;
+  background-size:contain;
+  background-position:center;
 
   ::selection {
     background-color: cc(selection);
